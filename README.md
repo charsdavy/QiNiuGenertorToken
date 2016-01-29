@@ -1,5 +1,5 @@
 # QiNiuGenertorToken
-七牛云存储服务器token获取
+七牛云存储服务器token获取，token有效期可以自行指定。
 
 #method
 * 七牛官网创建用户账号；</br>
@@ -14,3 +14,6 @@ my blog is [here](http://my.oschina.net/chars/blog), welcome to visit.
 
 #e-mail
 chars_d@126.com
+
+# 公众号
+<img alt="one" src="https://raw.github.com/charsdavy/MyNotes/master/screenshots/xiaoniu.png" width="120">&nbsp;&nbsp;
